@@ -32,8 +32,15 @@ Here are some ideas to get you started:-->
 ✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
 <hr/>
 <h2>languge and tools</h2>
-<h5>C ,HTML , CSS ,SCSS,PYTHON with Django, javascript , Linux(CLI), NPM,bootstrap,Wordpress,css animation,php,gitbash,React,Redux,material UI,TypeScript,NodeJs Express js, MongoDb,soft skill(bloger)</h5>
+<!-- <h5>C ,HTML , CSS ,SCSS,PYTHON with Django, javascript , Linux(CLI), NPM,bootstrap,Wordpress,css animation,php,gitbash,React,Redux,material UI,TypeScript,NodeJs Express js, MongoDb,soft skill(bloger)</h5> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,react,nextjs,typescript,nodejs,expressjs,mongodb,git" />
+  </a>
+</p>
 <div>
+
+
 
 
 
