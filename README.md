@@ -36,7 +36,7 @@ Here are some ideas to get you started:-->
 <!-- <h5>C ,HTML , CSS ,SCSS,PYTHON with Django, javascript , Linux(CLI), NPM,bootstrap,Wordpress,css animation,php,gitbash,React,Redux,material UI,TypeScript,NodeJs Express js, MongoDb,soft skill(bloger)</h5> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,sass,svg,javascript,react,nextjs,typescript,materialui,nodejs,expressjs,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,svg,javascript,react,nextjs,typescript,materialui,nodejs,expressjs,mongodb,git,c,python" />
   </a>
 </p>
 <div>
