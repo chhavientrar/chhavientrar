@@ -39,6 +39,8 @@ Here are some ideas to get you started:-->
     <img src="https://skillicons.dev/icons?i=html,css,sass,svg,javascript,react,nextjs,typescript,materialui,nodejs,expressjs,mongodb,git,c,python" />
   </a>
 </p>
+
+<a href="https://app.daily.dev/chhavi12"><img src="https://api.daily.dev/devcards/v2/iKkgmusrHkiKLQ7lCwDkt.png?type=default&r=p7f" width="356" alt="chhavi's Dev Card"/></a>
 <div>
 
 
