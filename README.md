@@ -40,6 +40,8 @@ Here are some ideas to get you started:-->
   </a>
 </p>
 
+<a href="https://app.daily.dev/chhavi12"><img src="https://api.daily.dev/devcards/v2/iKkgmusrHkiKLQ7lCwDkt.png?type=wide&r=si9" width="952" alt="chhavi's Dev Card"/></a>
+
 
 <div>
 
