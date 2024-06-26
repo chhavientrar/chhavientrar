@@ -21,6 +21,8 @@ Let's connect and explore my projects on GitHub. Reach out at chhavi@entrar.in"
 <!--**chhavi48/chhavi48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+
+
 Here are some ideas to get you started:-->
 <p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
@@ -39,6 +41,12 @@ Here are some ideas to get you started:-->
     <img src="https://skillicons.dev/icons?i=html,css,sass,svg,javascript,react,nextjs,typescript,materialui,nodejs,expressjs,mongodb,git,c,python" />
   </a>
 </p>
+## :bar_chart: Github Stats
+<div align="center" style="display: flex; flex-wrap: nowrap;">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=chhavientrar&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="shubhi-sharma" />
+<!--     <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=chhavientrar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="shubhi-sharma" /> -->
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhavientrar&show_icons=true&theme=radical&hide_border=true" alt="chhavientrar" /></p>
+</div>
 
 <a href="https://app.daily.dev/chhavi12"><img src="https://api.daily.dev/devcards/v2/iKkgmusrHkiKLQ7lCwDkt.png?type=wide&r=si9" width="952" alt="chhavi's Dev Card"/></a>
 
