@@ -24,10 +24,10 @@ Let's connect and explore my projects on GitHub. Reach out at chhavi@entrar.in"
 
 
 Here are some ideas to get you started:-->
-<p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<!-- <p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 
-✔️  I aspire to work as a programmer.
+✔️  I aspire to work as a programmer.-->
 
 <!-- ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
 
