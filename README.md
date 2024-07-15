@@ -48,7 +48,7 @@ Here are some ideas to get you started:-->
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhavientrar&show_icons=true&theme=radical&hide_border=true" alt="chhavientrar" /></p>
 </div>
 
-<a href="https://app.daily.dev/chhavi12"><img src="https://api.daily.dev/devcards/v2/iKkgmusrHkiKLQ7lCwDkt.png?type=wide&r=si9" width="952" alt="chhavi's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/chhavi12"><img src="https://api.daily.dev/devcards/v2/iKkgmusrHkiKLQ7lCwDkt.png?type=wide&r=si9" width="952" alt="chhavi's Dev Card"/></a> -->
 
 
 <div>
