@@ -11,7 +11,7 @@
     <p align="left" style="max-width:40%">
 I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScript, Node.js, React.js, and more. 
 
-With 1 + yr of experience as a front-end developer, I love challenging projects and experimenting with new technologies. I'm also skilled in team management and enjoy sharing my knowledge. 
+With 2 + yr of experience as a front-end developer, I love challenging projects and experimenting with new technologies. I'm also skilled in team management and enjoy sharing my knowledge. 
 
 Let's connect and explore my projects on GitHub. Reach out at chhavi@entrar.in"
 
