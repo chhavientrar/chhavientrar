@@ -1,1 +1,3 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhavientrar&" alt="chhavientrar" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhavientrar" alt="GitHub Streak Stats" />
+</p>
